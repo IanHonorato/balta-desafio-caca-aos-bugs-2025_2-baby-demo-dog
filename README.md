@@ -24,4 +24,4 @@ O desafio **Caça aos Bugs 2025** consiste em encontrar bugs e sugerir melhorias
 Banco de Dados.
 
 ### Veja meu progresso no desafio
-[IanHonorato](github.com/IanHonorato)
+[IanHonorato](https://github.com/IanHonorato/balta-desafio-caca-aos-bugs-2025_2-baby-demo-dog)
